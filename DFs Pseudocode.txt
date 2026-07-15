@@ -1,0 +1,14 @@
+START
+
+Read edges
+Create graph
+Read starting node
+
+DFS(node)
+    Print node
+    Mark node as visited
+    Visit all unvisited neighbours
+
+Call DFS(start)
+
+STOP
