@@ -1,0 +1,7 @@
+Start
+Insert Start Node
+While Goal Not Reached
+    Choose Node with Lowest Heuristic
+    Visit Node
+    Add Neighbours
+Stop
