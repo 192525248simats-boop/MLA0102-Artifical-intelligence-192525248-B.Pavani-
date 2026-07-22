@@ -1,0 +1,7 @@
+Start
+Insert Start Node
+While Queue is not Empty
+    Select Node with Lowest f = g + h
+    Visit Node
+    Update Neighbours
+Stop
