@@ -1,0 +1,7 @@
+Start
+Insert Start Node
+While Queue is not Empty
+    Select Node with Lowest Heuristic
+    Visit Node
+    Add Neighbours
+Stop
