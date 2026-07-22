@@ -1,0 +1,7 @@
+Start
+Insert Start Node with Cost 0
+While Queue is not Empty
+    Remove Lowest Cost Node
+    Visit Node
+    Add Neighbours with Updated Cost
+Stop
